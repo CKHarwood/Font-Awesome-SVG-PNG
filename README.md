@@ -1,7 +1,7 @@
-Font-Awesome-SVG-PNG
-====================
+Font-Awesome-SVG-PNG (CKHarwood fork)
+=====================================
 
-This project provides a Font-Awesome build split to individual SVG and PNG files of different sizes along with Node.JS based generator to generate any other colors and sizes combinations.
+This project provides a Font-Awesome build split to individual SVG and PNG files of different sizes along with Node.JS based generator to generate any other colors and sizes combinations. This fork is for personal use, primarily to provide for easy access and the inclusion of some colored icons. Any additions are licensed under the MIT license as applied to the original Font-Awesome-SVG-PNG license.
 
 ##What is Font-Awesome?
 Font Awesome is a full suite of 439 pictographic icons for easy scalable vector graphics on websites, created and
